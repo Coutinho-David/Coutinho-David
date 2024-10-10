@@ -27,6 +27,6 @@ etc...
 
 
 
-![CDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
+![(C)DM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
 
 
