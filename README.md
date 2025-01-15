@@ -26,7 +26,7 @@ etc...
 
 
 
-![(C)DM's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
+![(C)DM's GitHub stats](https://github-readme-stats-final-ten.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coutinho-David&layout=compact)
 
 
