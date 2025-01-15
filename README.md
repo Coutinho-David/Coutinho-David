@@ -10,17 +10,3 @@
 ![Code - Python](https://img.shields.io/badge/Code%3A-Python-2196F3?logo=python&logoColor=ffffff)
 ![Database - SQLite](https://img.shields.io/badge/Database-SQLite-2196F3?logo=sqlite&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
-
-
-etc... 
-
-
-
-
-
-
-
-![(C)DM's GitHub stats](https://github-readme-stats-david-ten.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats-david-ten.vercel.app/api/top-langs/?username=Coutinho-David&layout=compact)
-
-
