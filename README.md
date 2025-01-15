@@ -12,12 +12,6 @@
 ![Static Badge](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql)
 
 
-<h2 align = "left">Pentest tools</h2>
-
-![Static Badge](https://img.shields.io/badge/Web-BurpSuite-blue?logo=burpsuite)
-![Static Badge](https://img.shields.io/badge/Network-WireShark-blue?logo=wireshark)
-![Static Badge](https://img.shields.io/badge/Framework-Metasploit-blue?logo=metasploit)
-
 etc... 
 
 
@@ -27,6 +21,6 @@ etc...
 
 
 ![(C)DM's GitHub stats](https://github-readme-stats-final-ten.vercel.app/api?username=Coutinho-David&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coutinho-David&layout=compact)
+![Top Langs](https://github-readme-stats-final-ten.vercel.app/api/top-langs/?username=Coutinho-David&layout=compact)
 
 
